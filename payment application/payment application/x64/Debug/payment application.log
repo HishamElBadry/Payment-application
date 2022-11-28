@@ -1,0 +1,4 @@
+﻿  main.c
+D:\egypt fwd projects\payment application\payment application\main.c(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\egypt fwd projects\payment application\payment application\main.c(4,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  payment application.vcxproj -> D:\egypt fwd projects\payment application\x64\Debug\payment application.exe
